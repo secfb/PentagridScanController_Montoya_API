@@ -54,8 +54,9 @@ graph TD
 Before building or running this extension, ensure you have:
 
 1.  **Burp Suite**: Professional or Community Edition (v2023.1 or newer recommended).
-2.  **Java Development Kit (JDK)**: **Java 21** or higher installed on your system (Adoptium Temurin is highly recommended).
-3.  **Hackvertor Extension**: This extension relies on Hackvertor tags to make requests repeatable. Install **Hackvertor** via the Burp Suite BApp Store before loading this extension.
+2.  **Burp Montoya API**: Modernized and built against Montoya API version **2026.2**.
+3.  **Java Development Kit (JDK)**: **Java 21** or higher installed on your system (Adoptium Temurin is highly recommended).
+4.  **Hackvertor Extension**: This extension relies on Hackvertor tags to make requests repeatable. Install **Hackvertor** via the Burp Suite BApp Store before loading this extension.
 
 ---
 
